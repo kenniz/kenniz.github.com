@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kenniz Blog]]></title>
+  <link href="http://kenniz.github.io/atom.xml" rel="self"/>
+  <link href="http://kenniz.github.io/"/>
+  <updated>2013-10-07T23:13:30+08:00</updated>
+  <id>http://kenniz.github.io/</id>
+  <author>
+    <name><![CDATA[Kenniz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
